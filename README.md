@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Join%20our%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server">
   </a>
 </p>
-<p align="center"><b>🚀 Join our community Discord for the latest updates, suggestions, and support!</b></p>
+<p align="center"><b>🚀 Join our community Discord for the latest Updates, suggestions, and support!</b></p>
 
 <p align="center">
   <img src="https://i.ibb.co/kg0R2k2H/image.png" alt="Navi Banner" width="100%">
