@@ -7,6 +7,7 @@
 </p>
 <p align="center"><b>🚀 Join our community Discord for the latest Updates, suggestions, and support!</b></p>
 
+
 <p align="center">
   <img src="https://i.ibb.co/kg0R2k2H/image.png" alt="Navi Banner" width="100%">
 </p>
